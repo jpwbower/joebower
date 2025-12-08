@@ -376,7 +376,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: If question or just want to say hi, drop me a note and I'll try my best to get back to you!
+    content: If you have a question or just want to say hi, drop me a note and I'll try my best to get back to you!
     btnName: Mail me
     btnLink: mailto:joe@joebower.co.uk
     # formspree:
