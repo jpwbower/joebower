@@ -378,7 +378,7 @@ params:
     # title: "Custom Name"
     content: If you have a question or just want to say hi, drop me a note and I'll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:joe@joebower.co.uk
+    btnLink: mailto:contact@joebower.co.uk
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
